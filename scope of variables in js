@@ -1,0 +1,8 @@
+var a = 67;
+let b = 65;
+
+console.log(b);
+{
+  let b = 90;
+  console.log(b);
+}
