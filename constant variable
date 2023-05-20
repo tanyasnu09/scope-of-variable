@@ -1,0 +1,7 @@
+const author="harry";
+console.log(author);
+
+var a;
+let b;
+const c;
+
