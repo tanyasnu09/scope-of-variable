@@ -1,0 +1,10 @@
+let b="harry"
+console.log(b);
+
+b=4;
+console.log(b);
+{
+  let b= "this";
+  console.log(b);
+  
+}
